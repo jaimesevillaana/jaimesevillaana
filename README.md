@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center"> 🙋‍♀️​ Hola! Soy Ana Jaime </h1>
-<img src="[https://github.com/jaimesevillaana/Jaime-Sevillana/blob/main/IMG_2140.jpg](https://github.com/user-attachments/assets/7e0de28a-4a92-41f7-8ce2-ea0957c423f0)">
+<img src="https://github.com/user-attachments/assets/7e0de28a-4a92-41f7-8ce2-ea0957c423f0">
 </div>
 
 
