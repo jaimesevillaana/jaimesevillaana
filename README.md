@@ -4,13 +4,6 @@
 <img src="https://github.com/user-attachments/assets/7e0de28a-4a92-41f7-8ce2-ea0957c423f0">
 </div>
 
-<!---
-jaimesevillaana/jaimesevillaana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->## Hi there 👋
-
-<!--
-**jaimesevillaana/jaimesevillaana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
