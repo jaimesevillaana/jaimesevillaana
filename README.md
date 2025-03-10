@@ -3,7 +3,7 @@
 <img src="https://github.com/user-attachments/assets/7e0de28a-4a92-41f7-8ce2-ea0957c423f0">
 </div>
 
-##Sobre mí
+## Sobre mí
 - 🌱 I’m currently studying the CFGS of web application development
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
