@@ -10,6 +10,9 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/HTML%20-%20%232196f3">
 <img alt="Static Badge" src="https://img.shields.io/badge/SQL%20-%20%2300897b">
 <img alt="Static Badge" src="https://img.shields.io/badge/Arduino%20-%20%2300bcd4">
+<img alt="Static Badge" src="https://img.shields.io/badge/React%20-%20%239c27b0">
+<img alt="Static Badge" src="https://img.shields.io/badge/Vercel%20-%20%2300FF33">
+
 </div>
 
 
