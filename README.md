@@ -12,7 +12,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Arduino%20-%20%2300bcd4">
 <img alt="Static Badge" src="https://img.shields.io/badge/React%20-%20%239c27b0">
 <img alt="Static Badge" src="https://img.shields.io/badge/Vercel%20-%20%2300FF33">
-
+<img alt="Static Badge" src="https://img.shields.io/badge/Markdown%20-%20%23FF9966">
 </div>
 
 
