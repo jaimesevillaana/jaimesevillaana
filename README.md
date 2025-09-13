@@ -21,7 +21,6 @@
 - 🌱 I’m currently studying the CFGS of Web Application Development
 - 📫 How to reach me: anickajamesseville@gmail.com
 - 🤔 I’m looking for help with programación
-- 💬 Ask me about ...
+- 💬 Ask me about "la vida..."
 - 😄 Pronouns: Caótica
 - ⚡ Fun fact: Prefiero a los animales antes que a las personas... ;__)
--->
